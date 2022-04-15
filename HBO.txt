@@ -1,0 +1,709 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://127.0.0.1/" group-title="canal / Brasil web",Globo SP
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c14427230aede979d48b7ec5854c748f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://127.0.0.1/" group-title="canal / Brasil web",Gloob
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3718c87324beff3030fb81b96ab52de5&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Globo Rio" tvg-logo="http://127.0.0.1/" group-title="canal / Brasil web",Globo Rio
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c0278ad7fc7f696f2c849ac07f2b8e2c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title=" canal / aberto",Banda
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=67fd95fc1e88f15b3efb9feef0fc0dc9&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="canal / aberto",Canal do Boi
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=32063b8447bed2d51d9100f7145e13dd&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="canal / aberto", GloboRJ
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5867c4ed66beb7db3c2a29d4cfb439e8&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png" group-title="canal /aberto",Record News
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2c230b731e04e713c29989c73b1fb831&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gravar SP SD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Gravar SP SD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5e9ca6b4e05edb373c96db633d3bece4&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gravar SP HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Gravar SP HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5a8ae43cad2ed9e3d3e1ce39c4b7ca26&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gravar RJ SD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Gravar RJ SD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=4f71ba725cb39db54e9e522186f4c255&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gravar RJ HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Gravar RJ HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=50e30f1a39acf4a59d2d0335c7a19539&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Banda SP HD" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="canal / aberto",Banda SP HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=517bed48a7ea8c9a5209d6ae5df90bad&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Aberta SP" tvg-logo="http://i.imgur.com/M2N7X4V.png" group-title="canal / aberto",TV Aberta SP
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=01eca62da0a1a19e616238b32d86d992&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="REDETV SP HD" tvg-logo="https://i.imgur.com/n2B8k7H.png" group-title="canal / aberto",REDETV SP HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f18c6a8ee3ccc4507cf670c16677a291&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Brasil FHD" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="canal / aberto",TV Brasil FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=da99bda4382bf46c4750f18364570bfa&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Manchete SD" tvg-logo="https://i.imgur.com/gkWNOsf.jpg" group-title="canal / aberto",TV Manchete SD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c813ab661101824969a08e79c3176dec&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura PR SD" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto", TV Cultura PR SD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f03769add5cd32ac960b55c761f5fb96&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV FAAP HD" tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="canal / aberto",TV FAAP HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2704254fc5b38ceaec3c756448ca3358&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Gazeta MA" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="canal / aberto",TV Gazeta MA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=73e5c64b5218d50381289cd1bb8b0306&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT MT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="canal / aberto",SBT MT
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=584406c88a3451f9d9c99c594f1595df&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="canal / aberto",SBT GO
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=052d644a645fdf18ca1eb179883f12b9&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT PE" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="canal / aberto",SBT PE
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=06fe54d464d1d25297eed306f18b7906&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT PE HD" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="canal / aberto",SBT PE HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=8c553bb45a17a56e2a7ae98c5ec69cc0&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT PE Interior" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="canal / aberto",SBT PE Interior
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=25dd5b3686fb73f4badb5a70f953848d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Banda PA" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="canal / aberto",Banda PA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=ad8c01c4668e361dced1252ec92b64b0&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Rede Brasil DE" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="canal / aberto",Rede Brasil DE
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=ff66ce86a51182a183cfbed884ee9377&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura PR" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="canal / aberto",TV Cultura PR
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b46ffcb118a02407ef451f9543dd805d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura PR HD" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="canal / aberto",TV Cultura PR HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7be6a883fe00f4652174f1c1869cbc5b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Rede TV TO" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="canal / aberto",Rede TV TO
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=83160a50f8388a5357e6adf68ee3d987&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Rede TV RS" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="canal / aberto",Rede TV RS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=85b08f34d028cc0dd621724180252f3d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TVE RS" tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="canal / aberto",TVE RS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=9c23ad886e179bf0bba1466de862d40c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TVE BA HD" tvg-logo="http://i.imgur.com/kLWg5sp.png" group-title="canal / aberto",TVE BA HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1d0b2578770abcacd0573fda07471a6d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RBATV" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto",RBATV
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=237ac9863d872403f1fb964a328ca13a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Oeste MA" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto",TV Oeste MA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=eae403f5a3853498aceaae43df3d1773&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="CBTV" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto",CBTV
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2624f465ab22b84a2be79f6ce93b0fc5&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Paraná Turismo" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto",TV Paraná Turismo
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7062dc866f76900c91d381f190a9b990&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Tv Capital 777" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto",Tv Capital 777
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=86a7c5a7664d6573da8c3755c468d79f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Santa Cecilia" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto",TV Santa Cecília
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1530101218a8eee9fbfd46a3480ff60c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Digital Birigui SD" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto", TV Digital Birigui SD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=6be2d5a89730e8d79f12a9415ce7da0a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Max" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto",TV Max
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=03410e5e02aa9261d43dbcad4ba81b28&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Diario do Sertão" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto", TV Diário do Sertão
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=801a537d8490b3b034ee4db4f1dc032a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV ÁGUA BOA" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto",TV ÁGUA BOA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=694ddd1d0d91341000e135f9dc9646fb&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV NOVA ONDA" tvg-logo="https://i.postimg.cc/XNP4TM7n/Polish-20200617-000135235.jpg" group-title="canal / aberto",TV NOVA ONDA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=30506ea14e48bbbf4e2d5b103e6e8823&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gravar MG SD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Gravar MG SD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=03c9aa90a08380c0ae493bb19aa31eaa&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gravar MG HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Gravar MG HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=90308f90424c2bafbf9dca97b5b63cff&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gravar PA SD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Gravar PA SD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a5506703fd5fdd299c9e0335c063c71e&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gravar PA HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Gravar PA HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5cb21893f74525f6b3f36c660ecd35be&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Record GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Record GO
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5e3c8f7dcdcce34f9b17b89cedc94a04&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gravar GO HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Gravar GO HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=8387c51157289594407db1c905fb8331&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Record RS" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Record RS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=d2516c278ad1088e52e7bc1320ad669d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gravar RS HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",Gravar RS HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=495f7c2703b57bebc2b76d80d42e049c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="canal / aberto",Globo RJ HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bfcf4cbf275bae0302d07288cad31e05&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT - TV Serra Dourada (GO)" tvg-logo="https://i.imgur.com/yKrsIlf.png" group-title="canal / aberto",SBT - TV Serra Dourada (GO)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3cc413964f2f7805914248fe1bea4f98&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT - TV Difusora (MA)" tvg-logo="https://i.imgur.com/mbaa2Zf.png" group-title="canal / aberto",SBT - TV Difusora (MA)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=6b36b03502bc016727f447a0e9ecbf46&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT - TV Difusora Leste (MA)" tvg-logo="https://i.imgur.com/mbaa2Zf.png" group-title="canal / aberto",SBT - TV Difusora Leste (MA)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=89f36cbc0e72bdb697c0c17f49ce39b6&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT - TV Difusora Sul (MA)" tvg-logo="https://i.imgur.com/dZubI8U.png" group-title="canal / aberto",SBT - TV Difusora Sul (MA)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=64c8325c44c0df1aa35b3271a00e260d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT - Bem TV (MT)" tvg-logo="https://i.imgur.com/er6Uzee.png" group-title="canal / aberto",SBT - Bem Televisão (MT)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f6b5f78ecf06824c9b0ee906acad38f4&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT - TV Guarajá (PA)" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="canal / aberto",SBT - TV Guarajá (PA)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=4d8f836ebf1df1e6dbdce4e4d6a3a3e9&usuario=a88894e4e34ce75aad42a41909d3c464
+# EXTINF:-1 tvg-id="SBT - TV Cidade Verde (PI)" tvg-logo="https://i.imgur.com/clm7nuB.png" group-title="canal / aberto",SBT - TV Cidade Verde (PI)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=167b2e5ff6e491aa94ee63ddad53533b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV HD" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="canal / aberto",RecordTV HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=9e0d9e8039ba54fad16317d8d6b03532&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Rio" tvg-logo="https://i.imgur.com/KUjlPaI.png" group-title="canal / aberto",RecordTV Rio
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c5fce8c242fef72042851876ec811748&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Rio HD" tvg-logo="https://i.imgur.com/KUjlPaI.png" group-title="canal / aberto",RecordTV Rio HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7a46cd1ab997e9abde79621671062c09&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Belém" tvg-logo="https://i.imgur.com/mHVfCqq.png" group-title="canal / aberto",RecordTV Belém
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0aee449265039dba49ec561861e68298&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Belém HD" tvg-logo="https://i.imgur.com/mHVfCqq.png" group-title="canal / aberto",RecordTV Belém HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3200c1de1084ff2c120724f423e5ed7e&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-logo="https://i.imgur.com/NmFzMLP.png" group-title="canal / aberto",RecordTV Brasília
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a0606fa6743337d276a7747acf5baf2c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Brasília HD" tvg-logo="https://i.imgur.com/NmFzMLP.png" group-title="canal / aberto",RecordTV Brasília HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=9aa7f6824e0215dc0f940a41b3dc436c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-logo="https://i.imgur.com/vx41sFX.png" group-title="canal / aberto",RecordTV Goiás
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=4c463d0eb0033a4ed13c73166043efb3&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Goiás HD" tvg-logo="https://i.imgur.com/vx41sFX.png" group-title="canal / aberto",RecordTV Goiás HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f088bd2de13e7d69a76efb249db9fbce&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-logo="https://i.imgur.com/ActnmTP.png" group-title="canal / aberto",RecordTV Itapoan
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c7cc737ba013942c1f9847589e63226c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Manaus" tvg-logo="https://i.imgur.com/4f8KZm5.png" group-title="canal / aberto",RecordTV Manaus
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b4c3c351f8608284a0d8f90da97b8fb5&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Manaus HD" tvg-logo="https://i.imgur.com/4f8KZm5.png" group-title="canal / aberto",RecordTV Manaus HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b2a8afdf3750e803bd518b2af3aaf779&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Minas" tvg-logo="https://i.imgur.com/ZKQ5vLX.png" group-title="canal / aberto",RecordTV Minas
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=adc587144a83bc5b42f6582281b6b3c4&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Minas HD" tvg-logo="https://i.imgur.com/ZKQ5vLX.png" group-title="canal / aberto",RecordTV Minas HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=65af6a855cabd21ad2d6754130fac908&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Paulista" tvg-logo="https://i.imgur.com/6QjjsQ0.png" group-title="canal / aberto",RecordTV Paulista
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0a8bab6e95ba3719152fd0a7b3e7f7ee&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Paulista HD" tvg-logo="https://i.imgur.com/6QjjsQ0.png" group-title="canal / aberto",RecordTV Paulista HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=94c6514b7034436f40202a3d928e38bf&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV RS" tvg-logo="https://i.imgur.com/9hDdbDE.png" group-title="canal / aberto",RecordTV RS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=44f9da08260f51faee36a311cde799d8&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV RS HD" tvg-logo="https://i.imgur.com/9hDdbDE.png" group-title="canal / aberto",RecordTV RS HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=229405a785e9c939aafcabb9dbf00bb6&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV - TV Tropical (RN)" tvg-logo="https://i.imgur.com/V4DhYx7.png" group-title="canal / aberto",RecordTV - TV Tropical (RN)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2b61f24c7feda9a12bcd7e5124914674&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Band - RBA TV (PA)" tvg-logo="https://i.imgur.com/4dqClPb.png" group-title="canal / aberto",Band - RBA Televisão (PA)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=16e8d028ce88f5d5fa1a42d4271b1b10&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RedeTV! ES" tvg-logo="https://i.imgur.com/czg9p8d.png" group-title="canal / aberto",RedeTV! ES
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7ae5b4409866936c2b1e231e602a5491&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RedeTV! - TV Pantanal (MT)" tvg-logo="https://i.imgur.com/JGrxDs5.png" group-title="canal / aberto",RedeTV! - TV Pantanal (MT)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5886e3e50111c9ba909fb30e59349ac9&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RedeTV! - TV Arapuan (PB)" tvg-logo="https://i.imgur.com/yyFeDm7.png" group-title="canal / aberto",RedeTV! - TV Arapuã (PB)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=647bf5d4f658af73e2cd9ba7ea7fb84a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RedeTV! - TV Pampa (RS)" tvg-logo="https://i.imgur.com/ZixfAig.png" group-title="canal / aberto",RedeTV! - TV Pampa (RS)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=07fb2bbb3775e70ec7f0f21b2b55afc1&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RedeTV! Tocantins" tvg-logo="https://i.imgur.com/hYzJUqo.png" group-title="canal / aberto",RedeTV! Tocantins
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=38ed453b7adeacddd30a0215a5ea81e2&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="canal / aberto",TV Cultura
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=dee7fa6171d52682aa64d630e78b0854&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura - TV Brasil Central (GO)" tvg-logo="https://i.imgur.com/tbxAkds.png" group-title="canal / aberto",TV Cultura - TV Brasil Central (GO)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0c9d0c4d9bfabfffadbecefbdc86ed67&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura - TV Mais Cuiabá (MT)" tvg-logo="https://i.imgur.com/T6V2nhM.png" group-title="canal / aberto",TV Cultura - TV Mais Cuiabá (MT)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5ca45feb6c42c9974228d8ab5c288c2d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura do Pará" tvg-logo="https://i.imgur.com/7YTjmiK.png" group-title="canal / aberto",TV Cultura do Pará
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f250f9b918bab9cccfbfefe521d64cfa&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura - Canal 38 (PR)" tvg-logo="https://i.imgur.com/Keb1A1J.png" group-title="canal / aberto",TV Cultura - Canal 38 (PR)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3925f567ce0141a27ddcd982ff114ddc&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura - CATVE (PR)" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="canal / aberto",TV Cultura - CATVE (PR)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=9d6d72d4998578d3b0a7c9b4abd55f18&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura - TV Futuro (RN)" tvg-logo="https://i.imgur.com/Iis32zv.png" group-title="canal / aberto",TV Cultura - TV Futuro (RN)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=d6d311af4ccda6b15cece666b1129a07&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Futura - Canal FDR (CE)" tvg-logo="https://i.imgur.com/X6Hc6f0.png" group-title="canal / aberto",Futura - Canal FDR (CE)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=380eb0b0c5ed04ab2f6ffd5b06ed32ac&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RBTV" tvg-logo="https://i.imgur.com/rtkqjgQ.png" group-title="canal / aberto",RBTV
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1a18017660970c85cd241ade8b0a1aab&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RBTV - TVC Araçatuba (SP)" tvg-logo="https://i.imgur.com/kPUeEkz.png" group-title="canal / aberto",RBTV - TVC Araçatuba (SP)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=d67afdc300205ea0054f4fcd48313432&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RBTV - TV Marajoara (PA)" tvg-logo="https://i.imgur.com/xYucqoS.png" group-title="canal / aberto",RBTV - TV Marajoara (PA)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b6c934abb6d9006aa9e90529e806ede0&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RBTV - RSC TV (PR)" tvg-logo="https://i.imgur.com/PqeMB66.png" group-title="canal / aberto",RBTV - RSC Televisão (PR)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=e0692271c8507d9910d4a05451249c1b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RBTV - TV Brusque (SC)" tvg-logo="https://i.imgur.com/9OOBiuS.png" group-title="canal / aberto",RBTV - TV Brusque (SC)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f1f42b57aa8e6a332a948919a482d373&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Brasil 2 HD" tvg-logo="https://i.imgur.com/5u4hMlw.png" group-title="canal / aberto",TV Brasil 2 HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c5578e39b3a7b9567ac690396a5eb278&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Brasil - TV Guarapari (ES)" tvg-logo="https://i.imgur.com/7xkEXmu.png" group-title="canal / aberto",TV Brasil - TV Guarapari (ES)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a0a3e0b44aff3edfff8a535f1164fa7e&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Brasil - TV SIM Colatina (ES)" tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="canal / aberto",TV Brasil - TV SIM Colatina (ES)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=fb22fce7e503eebd6616df0d294713f3&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Brasil - TV SIM Linhares (ES)" tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="canal / aberto",TV Brasil - TV SIM Linhares (ES)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=43fa3475354ad527c85a329b0cf98add&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Brasil - TV SIM São Mateus (ES)" tvg-logo="https://i.imgur.com/tLkF2BE.png" group-title="canal / aberto", TV Brasil - TV SIM São Mateus (ES)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5004a5a93433624ffe81fc6267f41c31&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Brasil - TV UFG (GO)" tvg-logo="https://i.imgur.com/Uxt2SsE.png" group-title="canal / aberto",TV Brasil - TV UFG (GO)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b37643c9df52f486cd0ef1fdfd9fc704&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Brasil - Plano de TV (MG)" tvg-logo="https://i.imgur.com/RXhGz2u.png" group-title="canal / aberto",TV Brasil - Plano de TV (MG)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bf5f8abb1e32cc1c25b1e3cdaff1c55c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Brasil - TV Beltrão 2 (PR)" tvg-logo="https://i.imgur.com/UY5CKSh.png" group-title="canal / aberto",TV Brasil - TV Beltrão 2 (PR)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=91b9fe6910768fbdb1e93d1010e63300&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="canal / aberto",TV Gazeta
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7b4ecc7cf612e3e5f3ca7983a6b847ad&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Gazeta - TV Alternativa (MA)" tvg-logo="https://i.imgur.com/BdTbhqX.gif" group-title="canal / aberto",TV Gazeta - TV Alternativa (MA)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=09dfe7d07cf21762febabb6b0cb191c6&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Central TV" tvg-logo="https://i.imgur.com/fBWMU5r.png" group-title="canal / aberto",Central TV
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=4057cccc9c1921ddd779b146f1505bc1&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="CNT" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="canal / aberto",CNT
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=ae4602ef189fed9e5129f0e2418b9c9a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="CNT RJ" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="canal / aberto",CNT RJ
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=06e5e6c753075387d8128f7575b5df37&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="CNT RS" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="canal / aberto",CNT RS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=19858bef5553853fd1adb6ec103122db&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="CNT Cuiabá" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="canal / aberto",CNT Cuiabá
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=651051e78c88d9f4b46642fef598abb6&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="CNT Curitiba" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="canal / aberto",CNT Curitiba
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3bfd6b7dc03ffe749a3bef35e0356868&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="CNT Manaus" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="canal / aberto",CNT Manaus
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0ac0775501833cfd7781503309e71b91&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="CNT Tropical" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="canal / aberto",CNT Tropical
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7775eb45fee4bcaffd98cbea940c2f06&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Mon" tvg-logo="https://i.imgur.com/RZ1x8WZ.png" group-title="canal / aberto",TV Mon
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=fe8df2d7c9c96df3f69181674bf5d034&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV União" tvg-logo="https://i.imgur.com/pw0RLlI.png" group-title="canal / aberto",TV União
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=e9a45795340719ffd0ab419ce22b8522&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV União Brasília" tvg-logo="https://i.imgur.com/pw0RLlI.png" group-title="canal / aberto",TV União Brasília
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=cf1171bfa92c3189ad45be69db42e269&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Globo RJ SD" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="canal / aberto",Globo RJ SD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=8d897aef5e6cd843b2028fccdff2d4d8&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Catve (Cultura PR)" tvg-logo="https://imgur.com/yg60ANb.png" group-title="canal / aberto",Catve (Cultura PR)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=02433bdab70aa2d443a868b9c8db6069&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Rai News 24" tvg-logo="https://m3upt.com/logos/Rai-News-24.png" group-title="canal / aberto",Rai News 24
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=333b9e0234547dc0e99e614a84f01862&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="France 24" tvg-logo="https://imgur.com/Tj0KCYI.png" group-title="canal / aberto",France 24
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=799ba4ba150df4b98eac68c63273ac04&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RedeTV! SP" tvg-logo="https://i.imgur.com/hd76Jt4.png" group-title="canal / aberto",RedeTV! SP
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=ef07a7a20db7cb11f32b31814e76e8a2&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Rewind TV" tvg-logo="https://imgur.com/fssx3Gh.png" group-title="canal / aberto",Rewind TV
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=55dafdc8beab4d9fbe0ca45fa5601137&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Alternativa (TV Gazeta MA)" tvg-logo="https://imgur.com/lAXbfuU.png" group-title="canal / aberto",TV Alternativa (TV Gazeta MA)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5048e5564d5df496a828ceaeee48be2f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" group-title="canal / aberto",TV Manchete
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=78b2c3a39a7028d9a81fc7bb31acf405&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",RECORD SP
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=675f0506fb9e117ce5e9036de440b211&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RECORD RJ" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="canal / aberto",RECORD RJ
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1f5f631302d2214f9755f9f6c9c43ce7&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Record TV" tvg-logo="https://imgur.com/Wfq5okf.png" group-title="canal / aberto",Record TV
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=4b0c78a2ba8923312fbed87790f5ece0&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TV Cultura PR (CATVE)" tvg-logo="https://imgur.com/5FSHzvg.png" group-title="canal / aberto",TV Cultura PR (CATVE)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7c0362503f20fb72bb924e83f4d23e79&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT - TV Floresta (PA)" tvg-logo="https://i.imgur.com/lGJMu4z.png" group-title="canal / aberto",SBT - TV Floresta (PA)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=43ebbd332da183c9dd7455386ed95efc&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="RecordTV Itapoan HD" tvg-logo="https://i.imgur.com/ActnmTP.png" group-title="canal / aberto",RecordTV Itapoan HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=d05c65456155b8e26fcb992941eca461&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="CNT Bahia" tvg-logo="https://i.imgur.com/wS8kyvT.png" group-title="canal / aberto",CNT Bahia
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=6b2b2833ff21dc3e20596b9502e9fe38&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Band | BR" tvg-logo="https://www.m3u.cl/logo/560_Band.png" group-title="canal / aberto",Band | BR
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=14ea67205c6045db23305fdeba036383&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Record News Espírito Santo | BR" tvg-logo="https://www.m3u.cl/logo/572_Record_News_Espirito_Santo.png" group-title="canal / aberto",Record News Espírito Santo | BR
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a1326047918208fbcfaf4d2b8470e316&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Record TV RN | BR" tvg-logo="https://www.m3u.cl/logo/526_Record_TV_RN.png" group-title="canal / aberto",Record TV RN | BR
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2115ad384f4f31159cf2d71acd6ff405&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Rede Brasil de Televisão | BR" tvg-logo="https://www.m3u.cl/logo/583_Rede_Brasil_de_Televisao.png" group-title="canal / aberto",Rede Brasil de Televisão | BR
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=86c7232d267f31cb93d22c66dc7af234&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SBT GO | BR" tvg-logo="https://www.m3u.cl/logo/525_SBT_GO.png" group-title="canal / aberto",SBT GO | BR
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=67757517347576afa532b2ab813ecccd&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TNT Sports 2 Brasil (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title=" canal / Esportes",TNT Sports 2 Brasil (720p)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=874ce01fabc492e6d8fb67b41f4d56c0&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TNT Sports 3 Brasil (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title=" canal / Esportes",TNT Sports 3 Brasil (720p)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=717714bbad03dba767277940d385f353&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TNT Sports 4 Brasil (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title=" canal / Esportes",TNT Sports 4 Brasil (720p)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bac3dc74ad5f6694247ea0b6606c2bb9&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TNT Sports 5 Brasil (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title=" canal / Esportes",TNT Sports 5 Brasil (720p)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=335d71218cdb99cf7bbbd09eb758dea7&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="All Sports BR" tvg-logo="https://i.imgur.com/iOPJueQ.png" group-title="canal / Esportes",All Sports BR
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=717d57dd848d184b9f6fd537f3cbf61d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Estádio TNT Sports 4 HD" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="canal / Esportes",Estádio TNT Sports 4 HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0e3ad87a344a127e61fb8fd3fd7758f1&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Estádio TNT Sports 5" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="canal / Esportes",Estádio TNT Sports 5
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=59b8df8ab19eae4bd80bb3d3fc056bfe&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Estádio TNT Sports 5 HD" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="canal / Esportes",Estádio TNT Sports 5 HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7fa7c1e74f2c0a427a2bd2653178483f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Estádio TNT Sports 6" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="canal / Esportes",Estádio TNT Sports 6
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b40dc2dcdb32e9d61d829408cf35cd09&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Estádio TNT Sports 6 HD" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="canal / Esportes",Estádio TNT Sports 6 HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=79279b9aa94387ac15e830e347c29c41&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Estádio TNT Sports 7" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="canal / Esportes",Estádio TNT Sports 7
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=8eccc11dc02ccd848246e49b1c3351e1&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Estádio TNT Sports 7 HD" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="canal / Esportes",Estádio TNT Sports 7 HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f8a9561d34a7c5937cb7d238b2efa50d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Estádio TNT Sports 8" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="canal / Esportes",Estádio TNT Sports 8
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=ac8fdc6ba11906e0a344611eeb401928&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Estádio TNT Sports 8 HD" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="canal / Esportes",Estádio TNT Sports 8 HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=15b974195f264380595025584bf32d40&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.imgur.com/R4DJNZm.png" group-title="canal / Esportes",Fox Sports
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c1ba19187bba4d273cdc877dc413564a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Sports HD [Op. 2]" tvg-logo="https://i.imgur.com/R4DJNZm.png" group-title="canal / Esportes",Fox Sports HD [Op. 2]
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=58f9b5f4438789db9885df21186d0343&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Sports HD [Op. 3]" tvg-logo="https://i.imgur.com/R4DJNZm.png" group-title="canal / Esportes",Fox Sports HD [Op. 3]
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bfee5a67042513f2c1a435705734c213&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Estádio TNT Sports 4" tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="canal / Esportes",Estádio TNT Sports 4
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=6f9dd27975ec58b36b003b555bc77335&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://i.imgur.com/6uxBFpQ.png" group-title="canal / Esportes",Premiere Clubes HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=8b5be68d7c5c6551dec9dc836c2e3ada&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="https://i.imgur.com/itc2Moe.png" group-title="canal / Esportes",Red Bull TV
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b8b3000eb779796692555ebd06aac996&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="canal / Esportes",SporTV
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=d493b0cb60a61bfa17df96acdd054872&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SporTV HD" tvg-logo="https://i.imgur.com/YzY6fI2.png" group-title="canal / Esportes",SporTV HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bec326b2ff8cdf6a6dffebd699d3855d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="All Sports" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e7091994dd0a7abb969c3a058a21f710.jpg" group-title="canal / Esportes", Todos os esportes
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=39c902fe2c18931d48ba50740cca22ba&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Red Bull TV(inglês)" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06 -28-14-19-55.png" group-title="canal / Esportes",Red Bull TV(português)
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=010d3b32afd2d2de905e83f76378caeb&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SporTV | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",SporTV | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=65edfcce9f4a683608cc361439a9c1f6&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SporTV | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",SporTV | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3d9763075ff8464f2899e697a9e28173&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SporTV 2 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",SporTV 2 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=41d8d2c7e3c89c2079e40245121de587&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SporTV 2 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",SporTV 2 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a7a1e1c4710ccc8f99b24642e28efb41&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",SporTV 3
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a4dacd91f35a5b2c70d709866a8b95b3&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SporTV 3 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",SporTV 3 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=ad5b3a4104f9d61b245e5d482978bd27&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="SporTV 3 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",SporTV 3 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=32a4070a5e3e9aa0d5b17ccf34afa542&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Sports | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",Fox Sports | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=6d2ac0a1fc45c3cb81a626e8efc33594&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Sports | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",Fox Sports | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=55614346e311dc884e8c5ed44a4fc37d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",Fox Sports 2
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b543594967ce3122d04138e344cdcff2&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Sports 2 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",Fox Sports 2 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=30c5a5479ef5f4368cd08c3c93478016&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Sports 2 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Esportes",Fox Sports 2 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b4953bda2bbe92c712ecc3ea51645219&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://i.imgur.com/dFtnUU3.png" group-title="canal / Filmes e Séries",A&E
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bb38d9048b7b91706264169a031f32a4&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Arte 1" tvg-logo="https://i.imgur.com/QHM4UO4.png" group-title="canal / Filmes e Séries",Arte 1
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=73295956f8cf984275ad3e6a52a0746f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Arte 1 HD [Op. 2]" tvg-logo="https://i.imgur.com/QHM4UO4.png" group-title="canal / Filmes e Séries", Arte 1 HD [Op. 2]
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a153997af98784d1a6593baeea7db038&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="CGTN Documentary" tvg-logo="https://i.imgur.com/5Qk38Tx.png" group-title="canal / Filmes e Séries",CGTN Documentary
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=008104180b72624ab46a5d4af2ba1327&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="História" tvg-logo="https://i.imgur.com/j9gMYGr.png" group-title="canal / Filmes e Séries",História
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=16d2b386b2034b9488996466aaae0b57&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="História 2" tvg-logo="https://i.imgur.com/Wg2Tuao.png" group-title="canal / Filmes e Séries",História 2
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=91c3c79c44b29de6a53a7ab7973531cb&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://i.imgur.com/sEU9F2h.png" group-title="canal / Filmes e Séries",Love Nature
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c09fda9f0080fe694a1537f42f5c2807&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Love Nature HD" tvg-logo="https://i.imgur.com/sEU9F2h.png" group-title="canal / Filmes e Séries",Love Nature HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7de5873101cc22541180ab850331778b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Film&Arts HD" tvg-logo="https://i.imgur.com/JuopiWX.png" group-title="canal / Filmes e Séries",Film&Arts HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=11414beaa038694341eb5f1fd08b56aa&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Paramount Network" tvg-logo="https://i.imgur.com/YBdPi3r.png" group-title="canal / Filmes e Séries",Paramount Network
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=94d29a0d4682f088ab8c7ad6efc34b64&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Paramount Network HD" tvg-logo="https://i.imgur.com/YBdPi3r.png" group-title="canal / Filmes e Séries",Paramount Network HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=4fd6da5b5920684e20661cdc300f12c1&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="TELE CINE ACTINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:AND9GcSA9UsSnWxdlF5lFIl-XHnFqo9gLSlt2ap1UQ&usqp=CAU" group-title="canal / Filmes e Séries",TELE CINE ACTINO
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=804a65639138f2f344b31b2a40e66a49&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Classique TV" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="canal / Filmes e Séries",Classique TV
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=6165493b327f64046c2491bbd3589696&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Classique Western TV" tvg-logo="https://i.imgur.com/IiAxLai.png" group-title="canal / Filmes e Séries",Classique Western TV
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=e27b12ee6e53a10a45a9119071dc3274&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Warner" tvg-logo="https://i.imgur.com/vj9a9Mi.png" group-title="canal / Filmes e Séries",Warner
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=dabef448fac48c6137ca1cfae1ffa156&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Warner HD" tvg-logo="https://i.imgur.com/vj9a9Mi.png" group-title="canal / Filmes e Séries",Warner HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=fc1ed0d9c7bb43df022e910019e9873b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Série A Mulher Biônica!" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="canal / Filmes e Séries",Série A Mulher Biônica!
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=df28096ec8371c3cf7d04391395a2589&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Séries de TV As Panteras!" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="canal / Filmes e Séries",TV Series As Panteras!
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3d2df28631d79ac802070f8d2f15a19b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Série de TV Star Trek!" tvg-logo="https://imgur.com/BPqwYUG.png" group-title="canal / Filmes e Séries",TV Series Star Trek!
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=55a3edd72a9fdb68d968f502e1da4ddb&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Sony" tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="canal / Filmes e Séries",Sony
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2da860f7216f34598e5cdc6fd7e3098c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Sony HD" tvg-logo="https://i.imgur.com/b4Z8dd0.png" group-title="canal / Filmes e Séries",Sony HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bc78654483e7d0d160e5d51a7e62dbfd&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Fox Life
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c465835090b05dbdf7534b512a14ad75&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="FOX Life | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",FOX Life | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f81a77bf31920c41dc7739b655363db7&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="FOX" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",FOX
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1cbdb8043b37c7c9ca83582f9218c8b4&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="FOX | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",FOX | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=71a6dfe57d951bf0270bead28d3d7787&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="FOX | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",FOX | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=299c6caf2f1db07ea3a6cb444d137c17&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="FOX | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",FOX | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=55cf73dffa818548cf9dbb1a4bd86d92&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="FOX | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",FOX | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=29d80ac96d2ead646fac1cb8d474d5b3&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Premium 1 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Fox Premium 1 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c0e4305aefd1f62395be2b51e1a1933c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Premium 1 | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Fox Premium 1 | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=38fc6d00f67b5132ff3e040c19606536&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Premium 1 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Fox Premium 1 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=13d97a0f391aff2ab6c6684bd80852f5&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Premium 1 | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Fox Premium 1 | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=9a9f50f354cf7441d8fc7af0f759be3f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Premium 2 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Fox Premium 2 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1dda0630bdd3c3abe3d154688e8d7418&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Fox Premium 2 | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Fox Premium 2 | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c3eecf2ce1522b6d3758e553980f0045&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",AXN
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=042dba4d2faaa29cd2fa4c0125416d25&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="AXN | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",AXN | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=19306e3b4b6f2b7b111f382977b05660&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="AXN | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",AXN | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=95deac242e6e2535a72b366172f8a449&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="AXN | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",AXN | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bcfe7239dd89afb3e8f824bd230294bd&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="AXN | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",AXN | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c71bfce0984f297a38d244a130c2cab9&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Animal Planet
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=52d1df7fff7b1ba3ac317b98ef2fdb80&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Animal Planet | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Animal Planet | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=33994f6ac1a2c09729bf2d1f587d96be&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Animal Planet | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Animal Planet | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1f6d493f1b823ae6fbbb46e19f466c3f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Animal Planet | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Animal Planet | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7400fdaa5cd36fd1c4dbfab3e759731d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="MegaPix" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",MegaPix
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7508d4e0198aba01c2defeafd2a55360&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Megapix | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Megapix | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=19e81262409139978e20ca8e22f1da0d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Megapix | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",Megapix | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=4ffd405cbc69c11aa4235584359d2206&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",AMC
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7c52ed5b8820b7dfd90b5a784bac64b3&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="AMC | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",AMC | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5c0a6ad7603d766d83347376add85b50&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="AMC | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Filmes e Séries",AMC | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f94ed61329c0342dee73a5c8798b8d98&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=509e5f41146e278f9eab1ddaceb34515&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO | HD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0e26d1ade58ad8f98b38eec4654511bc&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=771619d798096948b58d04b1e9e92636&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=85c101a430965412e69b5afc405c892a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2152acf93dce365e081e6b932ce73fd5&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO 2 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO 2 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0064c14912acde8e4640b3362539c0d1&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO 2 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO 2 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c8e2fcf7e7f0617e0534adfbd6d17605&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Família HBO | HD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",Família HBO | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bfceeda1dc429e9a00e990ab6d30565c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Familly | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Familly | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=9705b17f507302d95ac90284ef7887d6&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO MUNDI
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=cf7a43a895823910cb68e84708a15346&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO MUNDI | HD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO MUNDI | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a978f41b909cb8bfec717331b5863fd2&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Mundi | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Mundi | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5e4907ebf83af67aa5510ab31b0bde60&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO MUNDI | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO MUNDI | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=4cb78fca6e1240fa73aebae7038c9560&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Mundi | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Mundi | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bf266aa1a9191fc162a1fc00e575a580&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Plus | HD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Plus | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=9cef85b11b6b2101f0eb9c5a57ea0a4c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Plus | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Plus | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=dadbbc0054a039250aac2ee2a79b31fb&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Plus | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Plus | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5313f597a50e2d84481426a361255a66&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Plus | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Plus | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=fd8ba3f0cd4152699be13b2028b3252c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Signature | HD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Signature | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=6c92a6157fa1757056937075a134e9be&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Assinatura HBO | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",Assinatura HBO | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7e770f95f296bb435f9c542f63120de7&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Signature | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Signature | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=d7565317563d8270e383a947f4b69e81&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Assinatura HBO | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",Assinatura HBO | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2a4264f151e0f3c0a7c43841f3df11e4&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO XTREME
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5206cf3226e1e60faece91d3cc36cb10&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO XTREME | HD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO XTREME | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=921c7f480c4b03125c4f764a6103d707&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Xtream | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Xtream | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=77be77323077a8246465379417f2a8b2&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO XTREME | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO XTREME | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2ecfdd5390c48ecdb1c45fcd2eb048ad&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Xtream | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Xtream | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=8b7eec5387fa2cb60b1eaf7dbfd9a79f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO POP
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=94bfce779d729d4aaf4e3b67077b4710&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO POP | HD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO POP | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=375a0685665811c85a29f7ecb1b22697&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Pop | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Pop | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1a9eb10bdae7324f1fc631b68d18d78a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO POP | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO POP | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1a0bf9abb4698857677d407403c68c5b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Pop | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Pop | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=882fb25c6dee2afd2bf4d10e553890f8&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=79ad183ffb51a7410bcd71b619104402&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO 2 | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO 2 | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=38dab3b1292cbf65a205f9e48cac79a8&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Plus | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Plus | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5af81fb8c13eeab3bebc923bc172bdb3&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Família HBO | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",Família HBO | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=ce5199ff1ad0365a7f88b00f81cc9ede&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Assinatura HBO | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",Assinatura HBO | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=25dc68cd1464977359b323ebfd7b9832&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Mundi | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Mundi | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0be266a015f5a3a393ab30d802e78ec3&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Xtreme | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Xtreme | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c20afe06ec98936e13e366119ecf9ce0&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="HBO Pop | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / HBO",HBO Pop | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=23a12a1f576883b5c9f68b7304e76145&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Retrô Cartoon" tvg-logo="http://i.imgur.com/me7Ae0Q.png" group-title="canal / infantil",Retrô Cartoon
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=598c8187a0c04fd3d4ad464a08dd549b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-logo="http://i.imgur.com/KlbMTBD.png" group-title="canal / infantil",Gospel Cartoon
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2185cedde2f49389d9fc976762fbec5b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="https://i.imgur.com/bTHozRe.png" group-title="canal / infantil",Nickelodeon
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b11cc9ad84502b27a63fa7a8d813ef6a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="https://i.imgur.com/bTHozRe.png" group-title="canal / infantil",Nickelodeon HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3284624f2d3f6eb12565c67aa773a94f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="https://i.imgur.com/WGd20Pk.png" group-title="canal / infantil",Nick Jr.
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3a8b265b3d1ae68ed72fae6a3ff7aa67&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Galicia TV Infantil" tvg-logo="https://i.imgur.com/IIYrixd.png" group-title="canal / infantil",Galiza TV Infantil
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=983f312ffba7ab3cef4e31e7795bd2f0&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Home & Health Discovery" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Home & Health Discovery
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=47063eaeb79c0b8abda9f7291997f900&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Home & Health Discovery | HD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Home & Health Discovery | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=cc6f57a6b17ad210cc1cba136da4d5e7&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Home & Health Discovery | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Home & Health Discovery | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=ad115ef835d0f55c996f1e271550b38a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Channel
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a490ae75a3ec2acf16c9f592e889eb4c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Channel | HD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Channel | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2a5060a60812d30b9d86f0acb93f6407&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Channel | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Channel | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=d9138f03494e49b9a5d06351cbbe17bc&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery World | HD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery World | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=43337bd899ac09c35d294182d369978b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery World | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery World | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a9fbd0120a078a4b9841a47886f5645f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Teatro do Descobrimento | HD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Teatro do Descobrimento | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=e5df08870669ed75f099caa1b0184d5b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Teatro do Descobrimento | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Teatro do Descobrimento | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f439389a8ae786dcbc68313e432d3dce&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Ciência da Descoberta | HD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Ciência da Descoberta | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2f05c505b72e204ba82dc7c5a9f3d2cf&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Ciência da Descoberta | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Ciência da Descoberta | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f0d87701b6187bc85921fe9ff3f128d1&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Turbo
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a051d70d672b127d4173209cfe5ade20&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Turbo | HD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Turbo | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=423aedbed0c05134e5d5d95be72d4ee9&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Turbo | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Turbo | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a6b6258a9e73b4b223fee2081a834ba3&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Investigacao Discovery" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Investigacao Discovery
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=e88dfee62504d4eff909379aebfc8aba&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Descoberta de Investigação | HD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Descoberta de Investigação | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0df569b0db3e6b1029ab0039a616ee30&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Investigation Discovery | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Investigation Discovery | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=b80422da3f71db788065e83c72c9fcb4&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Kids
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1fe9c922cfa1b46aad0e3daadf550c24&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Kids | HD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Kids | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a2c2c13dc42bc42e523e11059d8a8122&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Kids | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Kids | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=dd8f59e10cb1c8755572e30e420847b4&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Word | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Word | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=d68000eefa4f42ca11702eca03a18e21&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery H&H | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery H&H | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=eb8c6526493eddf29b8263faa36e7f23&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Discovery Channel | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / infantil",Discovery Channel | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5e9590c95d9b7b5bc0b1ce8aa18ae642&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere Clubes | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere Clubes | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=473c19bd6b6f3b501d701aab2989d29c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere Clubes | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere Clubes | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=45ce9e0533b089fd926a51eaa5e67adf&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 2 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 2 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=5cba66b1fa2a586c911a5859ebdc0f74&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere2 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere2 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=26320ec6a5e38348680cd345c5a29815&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 3 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 3 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f0f470b1e7173c7b623c118633706cb9&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 3 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 3 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a9bae0e7f7648e00e8688b82418819c3&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 4 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 4 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=9b249024712f886ec89e5a1f7f3cfa25&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere4 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere4 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=d8d59cf4ba330285684bdfede354eadf&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 5 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 5 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bb8461c254543661390b8115139635c2&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 5 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 5 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=285f83335fca8fa022c57be61fb3e02d&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 6 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 6 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=f574e71f7f76dfc7121a40f817d16843&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 6 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 6 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php? acesso=74118433372e613e2e32099f7b1640a1&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 7 | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 7 | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=545ea2c0d2cb607c8f81007222c8ba46&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 7 | FHD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 7 | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7b2ba145e690b9cc01c706f523e53b94&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 8" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 8
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7979d8e6be1e3cdd91ef56e4dfbc0d40&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 9" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 9
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=9931cc4fac800f969e7c68e328a78cdb&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere Club | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere Club | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a150ff631a082cad0c07b701239b562c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 7 | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 7 | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=6a61400ff864a45647f8e5d0f07a9867&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 6 | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 6 | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=fd0cd5db5bfd5b3b1d062f5263fd6227&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 5 | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 5 | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7a8dee9a73f29279dbb95756cc176d62&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 4 | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 4 | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=33f56f22c3955041ad38c391e8268d24&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 3 | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 3 | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=65dcc1c40795f24618000369008ab62a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Premiere 2 | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Premiere 2 | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=53217572f88431880e1439c675e2f2d6&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Mosaico Premiere | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Mosaico Premiere | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=e125d773d59c271631b2815adebcb691&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Mosaico Premiere | HD" tvg-logo="http://127.0.0.1/" group-title="canal / Premiere",Mosaico Premiere | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=6f85376d0b94b4c4769bd357421b524e&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Action | HD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Action | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c3ba44b37ef75a0756fafd0134bc556f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Action | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Action | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=63abf19e967ff2d14cf38e44e821a142&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Action | FHD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Action | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1f19caad00c4e9e2a11a2d6761bffa79&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Action | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Action | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=db76c19bd6e356dc52633352e67afbe3&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Cult | HD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Cult | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=979ea03b4f70a7f4730816f343f9da60&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Cult | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Cult | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3bc48b04e3c7ec7d3522172bd86f8f34&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Cult | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Cult | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c1f4018690406b709e7648926a4bedee&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Cult | FHD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Cult | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=824bc92bebb81ec5360509dad3948b4e&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Fun
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=8a59e1e6bb02704e63dc93a320876735&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Fun | HD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Fun | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=1a2f5694f8404cd735bd5e311b836352&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Fun | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Fun | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=ff87a6cce64d725d5200854893f1bb11&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Fun | FHD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Fun | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=75713ebe84576d58583eb0fd66137f5f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Fun | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Fun | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=6ec3ffd5ca879128b62e94708be99b7b&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Pipoca | HD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Pipoca | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=34fd2af4a16fcdb1529ae768350d1f82&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Pipoca | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Pipoca | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=bc1ca5eaf41d61ffec99f5af1768080e&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Pipoca | FHD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Pipoca | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=10fe619091a025b7e53238930d20c90a&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Pipoca | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Pipoca | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=c071fe12099092919e21e8019838ec6c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Premium
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=fecc23ad27a4a0c76a5f08775c30a377&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Premium | HD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Premium | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=33cdf99f16f22ce08a7bfb0fe1604c01&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Premium | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Premium | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=52eaf12555e84107ca9364350af0a080&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Premium | FHD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Premium | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=821b15889fc360c530d8d15bafe829e0&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Premium | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Premium | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=3a1554a23e03152181338eb8dccabf6c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Touch
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=aec559015ce2aaa3671047e8e274d29f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Touch | HD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Touch | HD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0ccb8d8d8001f70a60a705cf1118ff48&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Touch | HD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Touch | HD - PERNAS
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=9d39d78770217c2c0c8fd5b0f94b60c7&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Touch | FHD" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Touch | FHD
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0ab01455e5ab214578cffbdf7794fd95&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Touch | FHD - LEG" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Touch | FHD - PERNA
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2edf84fcbbbfde3f273c9dc09a4df33c&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Premium | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Premium | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=7834f502563b33b3367b6ab2d99f5125&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Action | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Action | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=298d87f533e4dcb700a26802e0cf0379&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Touch | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Touch | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=103f7d16c5c5e66ebc223ae34ef3a907&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Pipoca | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Pipoca | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=0975dfa10f3b71b287064737692aaed9&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Fun | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Fun | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=a2b6d26503a94fffe70003735c3319c1&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Cult | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Cult | FHD - H264
+https://conta2iptvifinito.000webhostapp.com/41/41/redir.php?acesso=2740ce86ea822a605abcb29d3e54c75f&usuario=a88894e4e34ce75aad42a41909d3c464
+#EXTINF:-1 tvg-id="Telecine Cult | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Cult | FHD - H264
+https://ndsyrpyvfhdkrxkh.wzcdn134.net:8443/hls/8habutjp.m3u8?s=BjjrKHWJMxDjIdfVZRzLYQ&e=1635957349
+#EXTINF:-1 tvg-id="Telecine Cult | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Cult | FHD - H264
+https://ndsyrpyvfhdkrxkh.wzcdn134.net:8443/hls/vwzh6npjwqalyzk.m3u8?s=71yP9P7W_IU1FSi6iliq-w&e=163595752
+#EXTINF:-1 tvg-id="Telecine Cult | FHD - H264" tvg-logo="http://127.0.0.1/" group-title="canal /Telecine",Telecine Cult | FHD - H264
+https://m3u9.ml/b/hls1/sexhot.m3u8?mu3zAQc9HC3GbwJq=GH-j-NjRqprGNdPNiyHJyA&3U1G7qaTxrPbalZnEx=1635965028
